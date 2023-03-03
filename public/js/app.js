@@ -1,5 +1,3 @@
-console.log('clint side js is loaded Akarsh')
-
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
 //     response.json().then((data)=>{
 //         console.log(data)
